@@ -1,0 +1,9 @@
+span {
+	color: red;
+}
+div.one p span {
+	color: blue;
+}
+div.two > p span {
+color: green;
+}

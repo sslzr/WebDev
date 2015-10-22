@@ -1,0 +1,21 @@
+body {
+	 background-color: #FFF8DC;
+}
+div {
+	color: #ff9933;
+}
+h1{
+  font-family: Arial; font-style: italic; font-size: 300%;
+}
+h1{
+  text-align: center; color: #660000;
+}
+h2 {
+	font-size: 200%;
+}
+p {
+  color: #660000; 
+}
+ol {
+	color: #ff9933; font-style: italic;
+}

@@ -1,0 +1,18 @@
+.toolbar 
+		{
+display: block-inline;
+background-color: #f3f3f3;
+border-color: #f3f3f3 #bbb #bbb #f3f3f3;
+border-width: 1px;
+border-style: solid;
+height: 10px;
+width: 300px;
+margin: 3px;
+padding: .5em;
+zoom: 1;
+}
+a 
+{
+	text-decoration: none;
+	font-family: helvetica, arial, sans-serif;
+}
